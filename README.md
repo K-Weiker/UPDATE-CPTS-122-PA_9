@@ -6,6 +6,7 @@ Anh Duong - Lab Section 13
 Kane Weiker - Lab Section 07
 
 Video Demonstration - https://youtu.be/LITxbS67vB0 
+
 Steps gotten from - https://www.instructables.com/Playing-Chess/
 
 Test Cases
