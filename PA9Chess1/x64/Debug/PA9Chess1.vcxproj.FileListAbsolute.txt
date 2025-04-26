@@ -1,0 +1,2 @@
+E:\Coding Projects\PA9Chess1\x64\Debug\SDL2d.dll
+E:\Coding Projects\PA9Chess1\PA9Chess1\x64\Debug\PA9Chess1.vcxproj.Up2Date
